@@ -1,4 +1,4 @@
-let score = "hitesh"
+let score = "Pradeep"
 
 //console.log(typeof score);
 //console.log(typeof(score));
@@ -12,7 +12,7 @@ let valueInNumber = Number(score)
 // "33abc" => NaN
 //  true => 1; false => 0
 
-let isLoggedIn = "hitesh"
+let isLoggedIn = "pradeep"
 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 //  console.log(booleanIsLoggedIn);
@@ -41,7 +41,7 @@ let negValue = -value
 // console.log(2%3);
 
 let str1 = "hello"
-let str2 = " hitesh"
+let str2 = " pradeep"
 
 let str3 = str1 + str2
 // console.log(str3);
@@ -64,5 +64,3 @@ let gameCounter = 100
 ++gameCounter;
 console.log(gameCounter);
 
-// link to study
-// https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
